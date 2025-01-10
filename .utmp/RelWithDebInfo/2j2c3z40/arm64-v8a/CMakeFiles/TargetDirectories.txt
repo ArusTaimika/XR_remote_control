@@ -1,0 +1,5 @@
+C:/Unity/XR_remote_control/.utmp/RelWithDebInfo/2j2c3z40/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Unity/XR_remote_control/.utmp/RelWithDebInfo/2j2c3z40/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Unity/XR_remote_control/.utmp/RelWithDebInfo/2j2c3z40/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Unity/XR_remote_control/.utmp/RelWithDebInfo/2j2c3z40/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Unity/XR_remote_control/.utmp/RelWithDebInfo/2j2c3z40/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
